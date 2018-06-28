@@ -1,5 +1,5 @@
 # NYC Traffic Ticket Search
-##### A web app that searches public records in  NYC's Open Data portal ticketed traffic violations :cop:
+##### A web app that searches public records in  NYC's Open Data portal for ticketed traffic violations :cop:
 
 **Check out the live demo here :point_right: https://nycbike.herokuapp.com/**
 
